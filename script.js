@@ -1,6 +1,6 @@
 const jobs = [
   { title: "Frontend Developer", company: "TechSoft", location: "Bhopal", link: "#" },
-  { title: "Data Entry Operator", company: "Capri Global", location: "Indore", link: "#" },
+  { title: "Data aakash pathrol", company: "Capri Global", location: "Indore", link: "#" },
   { title: "Backend Engineer", company: "Paytm", location: "Delhi", link: "#" },
   { title: "Computer Operator", company: "IDFC Bank", location: "Bhopal", link: "#" }
 ];
